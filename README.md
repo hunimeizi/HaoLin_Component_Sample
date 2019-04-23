@@ -4,13 +4,13 @@
 - 组件化建立
 
   ① 在项目中newMoudle选择 Phone & Table Moudle
-  
+
   ② 可以单独运行每一个新建的该moudle
-  
+
   ③ 项目在开发时该moudle作为Application出现，在打包出APK时作为Lib出现
-  
-  ④ 建立该moudle的同时，必须再建一个Andorid Lib，可互相引用调用该moudle
-  
+
+  ④ 建立该moudle的同时，必须再建一个Andorid Lib，可供主APP调用该moudle
+
 
 - 全局配置gradle环境
 
